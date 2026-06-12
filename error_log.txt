@@ -1,0 +1,1 @@
+[27-Apr-2026 21:08:52 Asia/Karachi] DB Connection Error: SQLSTATE[HY000] [2002] No such file or directory
